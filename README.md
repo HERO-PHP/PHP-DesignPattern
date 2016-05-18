@@ -1,2 +1,2 @@
 # PHP-Progress
-Study hard and make progress every day
+My English is not very good, not on each line, the program has the necessary notes, hope to understand
