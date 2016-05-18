@@ -1,5 +1,7 @@
 <?php
-	//$XHPROF_ROOT = dirname(__FILE__).'/';
+	//供其参考，如有更好的算法，欢迎来踩
+    //
+    //$XHPROF_ROOT = dirname(__FILE__).'/';
 	//echo $XHPROF_ROOT;
     
     
