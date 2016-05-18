@@ -1,7 +1,7 @@
 <?php
 	
     /*
-     * PHP设计模式——单例模式
+     * PHP Design Pattern——Singleton Pattern
      */
 
     class SingletonPattern {
