@@ -65,7 +65,7 @@
     }
     
     $tran   = new ShowFactory();
-    echo $tran->obj('train')->selectTransport();
+    echo $tran->obj('train')->selectTransport();//You can not continue to deal with result,Strategy pattern can
     exit;
     
 ?>
