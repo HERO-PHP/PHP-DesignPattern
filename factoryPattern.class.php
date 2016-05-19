@@ -49,7 +49,7 @@
             
             switch ($param) {
                 case 'car':
-                    return new Car();
+                    return new Car();//You can not continue to deal with result,because it's just an object,Strategy pattern can
                     break;
                 case 'train':
                     return new Train();
@@ -65,7 +65,7 @@
     }
     
     $tran   = new ShowFactory();
-    echo $tran->obj('train')->selectTransport();//You can not continue to deal with result,Strategy pattern can
+    echo $tran->obj('train')->selectTransport();
     exit;
     
 ?>
